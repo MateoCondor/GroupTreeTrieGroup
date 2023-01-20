@@ -1,0 +1,13 @@
+﻿  main.cpp
+  Trie.cpp
+  TrieApp.cpp
+  TrieNode.cpp
+  Generando código...
+graphics.lib(dibutil.obj) : warning LNK4099: no se encontró PDB '' con 'graphics.lib(dibutil.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+graphics.lib(drawing.obj) : warning LNK4099: no se encontró PDB '' con 'graphics.lib(drawing.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+graphics.lib(file.obj) : warning LNK4099: no se encontró PDB '' con 'graphics.lib(file.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+graphics.lib(misc.obj) : warning LNK4099: no se encontró PDB '' con 'graphics.lib(misc.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+graphics.lib(text.obj) : warning LNK4099: no se encontró PDB '' con 'graphics.lib(text.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+graphics.lib(winbgi.obj) : warning LNK4099: no se encontró PDB '' con 'graphics.lib(winbgi.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+graphics.lib(winthread.obj) : warning LNK4099: no se encontró PDB '' con 'graphics.lib(winthread.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  TrieApp.vcxproj -> C:\Users\condo\Documents\Universidad\ESTRUCTURA DE DATOS\GroupTreeTrieGroup\TreeTrieProyect\TrieApp\Debug\TrieApp.exe
